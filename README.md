@@ -16,3 +16,4 @@
 	- audio interaction via P5.FFT and P5.Amplitude,
 	- User interactivity with mouse cursor to agents,
 	- User interactivity with GUIs (Spectrum Graph settings, Waveform settings, Agent Dimensions settings, Track Information toggler).
+- Note: To run the project, you must have Live Server enabled within your code editor.
